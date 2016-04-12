@@ -17,6 +17,9 @@ published: true
 　	本文介绍的是BDD的开发新框架之一----- [Calabash-ios](https://github.com/calabash/calabash-ios)。
 
 　	**Calabash是一款开源的跨平台UI测试工具，目前支持iOS和Android。它使用Cucumber作为测试核心，Cucumber是一个在敏捷团队十分流行的自动化的功能测试工具，它使用接近于自然语言的特性文档进行用例的书写和测试，支持多语言和多平台。**
+
+<!--more-->
+
 　
 
 	Calabash-ios 简单步骤：

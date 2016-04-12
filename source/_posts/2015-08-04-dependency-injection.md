@@ -15,6 +15,9 @@ published: true
 
 　	本文介绍的是另一个屎上最牛叉的ios开发新框架，***最大的特点就是：帮助我们开发出松散耦合(loose coupled)、可维护、可测试的代码和程序。这条原则的做法是大家熟知的面向接口，或者说是面向抽象编程。*** 众所周知 该编程思想在各大语言中都有体现如 jave C++ PHP以及.net中。当然设计模式的广泛程度远远大于这些，IOS 当然也不例外。 ***本文主要介绍本人在学习dependency injection的时候的学习过程以及对一些学习资料的总结，主要介绍ios中的两大框架[objection](https://github.com/atomicobject/objection)和[Typhoon](http://typhoonframework.org/)。***   闲话不多吹下面进入正题。
 
+<!--more-->
+
+
 ###什么是dependency injection？　	
 
 

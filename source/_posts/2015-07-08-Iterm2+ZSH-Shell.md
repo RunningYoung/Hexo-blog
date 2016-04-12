@@ -13,7 +13,12 @@ published: true
 
 ##Iterm2+ZSH 打造终极Shell
 
+
+
   　[点击查看图片](../images/blog/zshShell.png "Title")
+
+
+<!--more-->
 
 
   　![点击查看图片](http://m1.yea.im/1Oa.png "Title")

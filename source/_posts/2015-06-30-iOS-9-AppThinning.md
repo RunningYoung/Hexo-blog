@@ -15,6 +15,8 @@ published: true
 
 　存储空间不够是很多iOS用户遇到的问题，苹果在2015全球开发者大会(WWDC 2015)上简要介绍了一个关于节省iOS存储空间的解决方案——App Thinning，这项功能可以让iOS设备在很多安装应用、更新应用以及运行应用等多种场景中仅下载需要的代码而不是所有的资源，这样iOS应用占用的空间就会减少很多，从而节省出更多的剩余存储空间。
 
+<!--more-->
+
 ![alt text](http://image.tianjimedia.com/uploadImages/2015/161/03/91DR50WK1903_000_600.jpg "Title")
 
 ![alt text](http://image.tianjimedia.com/uploadImages/2015/161/N13P3TFYRU14.jpg "Title")
