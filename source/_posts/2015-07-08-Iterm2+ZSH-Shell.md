@@ -15,7 +15,7 @@ published: true
 
 
 
-  　[点击查看图片](../images/blog/zshShell.png "Title")
+  　[点击查看图片](http://7xsugd.com2.z0.glb.clouddn.com/runningyoungBlog/images/zshShell.png "Title")
 
 
 <!--more-->

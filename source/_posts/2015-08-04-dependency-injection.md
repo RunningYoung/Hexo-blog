@@ -67,7 +67,7 @@ published: true
 
 通过objection实现依赖注入后，就能更好地实现SRP(Single Responsibility Principle)，代码更简洁，心情更舒畅，生活更美好。拿Pinterest来说，下面的页面就可以划分为3个Section。
 
-[点击查看图片](../images/blog/DI01.png "Title")
+[点击查看图片](http://7xsugd.com2.z0.glb.clouddn.com/runningyoungBlog/images/DI01.png "Title")
 
 
 ![点击查看图片](http://m1.yea.im/1O8.png)
